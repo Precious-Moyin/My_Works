@@ -4,3 +4,6 @@ position = "First"
 print(top_analyst)
 print(price)
 print(position)
+
+sum = 20 + 40
+print(sum)
